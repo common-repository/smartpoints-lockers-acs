@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smartpoints Lockers for ACS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-28 23:43+0000\n"
+"PO-Revision-Date: 2024-07-29 13:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: smartpoints-lockers-acs"
+
+#: index.php:96 index.php:170
+msgid "0 - 1 kg"
+msgstr "0 - 1 κιλά"
+
+#: index.php:105 index.php:179
+msgid "1.01 - 2 kg"
+msgstr "1.01 - 2 κιλά"
+
+#: index.php:114 index.php:188
+msgid "2.01 - 3 kg"
+msgstr "2.01 - 3 κιλά"
+
+#: index.php:123 index.php:197
+msgid "3.01 - 4 kg"
+msgstr "3.01 - 4 κιλά"
+
+#: index.php:132 index.php:206
+msgid "4.01 - 5 kg"
+msgstr "4.01 - 5 κιλά"
+
+#: index.php:141 index.php:215
+msgid "5.01 - 6 kg"
+msgstr "5.01 - 6 κιλά"
+
+#: smartpoints-lockers-acs-map.php:9
+msgid "ACS Courier Logo"
+msgstr "Λογότυπο ACS Courier"
+
+#: index.php:46
+msgid "Activation"
+msgstr "Ενεργοποίηση"
+
+#: index.php:48
+msgid "Activation/Deactivation of shipping method"
+msgstr "Ενεργοποίηση/Απενεργοποίηση μεθόδου αποστολής"
+
+#: index.php:262
+msgid "Api Key"
+msgstr "Κλειδί API"
+
+#: index.php:81
+msgid "Base shipping cost is valid up to LAST rate"
+msgstr "Το βασικό κόστος αποστολής ισχύει μέχρι την ΤΕΛΕΥΤΑΙΑ τιμή"
+
+#: index.php:79
+msgid "Base shipping cost kg limit"
+msgstr "Όριο βασικού κόστους αποστολής ανά κιλό"
+
+#: index.php:52
+msgid "Base shipping cost per order"
+msgstr "Βασικό κόστος αποστολής ανά παραγγελία"
+
+#: index.php:238
+msgid "Company ID"
+msgstr "ID Εταιρείας"
+
+#: index.php:244
+msgid "Company Password"
+msgstr "Κωδικός Εταιρείας"
+
+#: index.php:98 index.php:172
+msgid "Cost for weights between 0 and 1 kg"
+msgstr "Κόστος για βάρη μεταξύ 0 και 1 κιλό"
+
+#: index.php:107 index.php:181
+msgid "Cost for weights between 1.01 and 2 kg"
+msgstr "Κόστος για βάρη μεταξύ 1.01 και 2 κιλά"
+
+#: index.php:116 index.php:190
+msgid "Cost for weights between 2.01 and 3 kg"
+msgstr "Κόστος για βάρη μεταξύ 2.01 και 3 κιλά"
+
+#: index.php:125 index.php:199
+msgid "Cost for weights between 3.01 and 4 kg"
+msgstr "Κόστος για βάρη μεταξύ 3.01 και 4 κιλά"
+
+#: index.php:134 index.php:208
+msgid "Cost for weights between 4.01 and 5 kg"
+msgstr "Κόστος για βάρη μεταξύ 4.01 και 5 κιλά"
+
+#: index.php:143 index.php:217
+msgid "Cost for weights between 5.01 and 6 kg"
+msgstr "Κόστος για βάρη μεταξύ 5.01 και 6 κιλά"
+
+#: index.php:150
+msgid "Cost per extra kg for Region A"
+msgstr "Κόστος ανά επιπλέον κιλό για την Περιοχή Α"
+
+#: index.php:224
+msgid "Cost per extra kg for Region B"
+msgstr "Κόστος ανά επιπλέον κιλό για την Περιοχή Β"
+
+#: index.php:233
+msgid "Credentials for ACS & Google Maps"
+msgstr "Διαπιστευτήρια για ACS & Google Maps"
+
+#: index.php:92
+msgid "Define here the Shipping ID from WooCommerce for Rates Region A"
+msgstr "Ορίστε εδώ το Shipping ID από το WooCommerce για τις Τιμές Περιοχής Α"
+
+#: index.php:166
+msgid "Define here the Shipping ID from WooCommerce for Rates Region B "
+msgstr "Ορίστε εδώ το Shipping ID από το WooCommerce για τις Τιμές Περιοχής Β"
+
+#: index.php:161
+msgid ""
+"Define shipping rates for Region B & calculations based on weight ranges."
+msgstr ""
+"Ορίστε τις τιμές αποστολής για την Περιοχή Β και τους υπολογισμούς με βάση "
+"τα βάρη"
+
+#: index.php:87
+msgid "Define shipping rates Region A & calculations based on weight ranges."
+msgstr ""
+"Ορίστε τις τιμές αποστολής για την Περιοχή Α και τους υπολογισμούς με βάση "
+"τα βάρη."
+
+#: index.php:235
+msgid "Define the Credentials for ACS & Google Maps."
+msgstr "Ορίστε τα Διαπιστευτήρια για ACS & Google Maps."
+
+#: smartpoints-lockers-acs-plugin.php:341
+msgid "Do you need Special Support?"
+msgstr "Χρειάζεστε Εξειδικευμένη Υποστήριξη;"
+
+#: index.php:152 index.php:226
+msgid "Extra cost per kilo"
+msgstr "Επιπλέον κόστος ανά κιλό"
+
+#: index.php:72
+msgid ""
+"for order value higher than (Leave it empty if you don't have free delivery)"
+msgstr ""
+"για αξία παραγγελίας μεγαλύτερη από (Αφήστε το κενό εάν δεν έχετε δωρεάν "
+"παράδοση)"
+
+#: index.php:70
+msgid "Free delivery"
+msgstr "Δωρεάν παράδοση"
+
+#: index.php:268
+msgid "Google Api Key"
+msgstr "Κλειδί API της Google"
+
+#: index.php:270
+msgid "Google Maps API Key required for map functionalities."
+msgstr "Απαιτείται το κλειδί API των Google Maps για τις λειτουργίες χάρτη."
+
+#. Author of the plugin
+msgid "HEADPLUS"
+msgstr "HEADPLUS"
+
+#. Author URI of the plugin
+msgid "https://headplus.gr"
+msgstr "https://headplus.gr"
+
+#. URI of the plugin
+msgid "https://headplus.gr/product/smartpoints-lockers-for-acs/"
+msgstr "https://headplus.gr/product/smartpoints-lockers-for-acs/"
+
+#: index.php:35
+msgid "Invalid ACS Credentials."
+msgstr "Μη έγκυρα διαπιστευτήρια ACS."
+
+#: smartpoints-lockers-acs-plugin.php:140
+msgid "Nonce verification failed"
+msgstr "Η επαλήθευση του nonce απέτυχε"
+
+#: index.php:240 index.php:246 index.php:252 index.php:258 index.php:264
+msgid "Provided by ACS courier"
+msgstr "Παρέχεται από την ACS courier"
+
+#: index.php:85
+msgid "Rates Region A"
+msgstr "Τιμές Περιοχής Α"
+
+#: index.php:159
+msgid "Rates Region B "
+msgstr "Τιμές Περιοχής Β"
+
+#: index.php:54
+msgid "Shipping cost for pickup from ACS Point"
+msgstr "Κόστος αποστολής για παραλαβή από σημείο ACS"
+
+#: index.php:90
+msgid "Shipping Zone ID for Rates Region A"
+msgstr "ID ζώνης αποστολής για τις τιμές περιοχής Α"
+
+#: index.php:164
+msgid "Shipping Zone ID for Rates Region B"
+msgstr "ID ζώνης αποστολής για τις τιμές περιοχής Β"
+
+#. Name of the plugin
+msgid "Smartpoints Lockers for ACS"
+msgstr "Smartpoints Lockers για ACS"
+
+#. Description of the plugin
+msgid ""
+"The Smartpoints Lockers for ACS Plugin on your e-shop, offers at your "
+"customers the option to easily and quickly pick up their online orders from "
+"an ACS Smartpoint Locker or ACS store. In addition the plugin can offers "
+"special settings like table rates for different shipping zones and other "
+"useful Settings for Shipping Calculation"
+msgstr ""
+"Το πρόσθετο Smartpoints Lockers για ACS στο ηλεκτρονικό σας κατάστημα, "
+"προσφέρει στους πελάτες σας την επιλογή να παραλάβουν εύκολα και γρήγορα τις "
+"ηλεκτρονικές τους παραγγελίες από ένα Smartpoint Locker ή κατάστημα ACS. "
+"Επιπλέον, το πρόσθετο προσφέρει ειδικές ρυθμίσεις όπως πίνακες τιμών για "
+"διαφορετικές ζώνες αποστολής και άλλες χρήσιμες ρυθμίσεις για τον υπολογισμό "
+"των αποστολών.\n"
+
+#: index.php:63
+msgid "Upper limit for package weight (kg) in order to pickup from ACS Point"
+msgstr "Ανώτατο όριο βάρους δέματος (kg) για παραλαβή από σημείο ACS"
+
+#: index.php:250
+msgid "User ID"
+msgstr "ID χρήστη"
+
+#: index.php:256
+msgid "User Password"
+msgstr "Κωδικός χρήστη"
+
+#: index.php:33
+msgid "Valid ACS Credentials."
+msgstr "Έγκυρα διαπιστευτήρια ACS."
+
+#: index.php:61
+msgid "Weight limit"
+msgstr "Όριο βάρους"
+
+#: smartpoints-lockers-acs-plugin.php:147
+msgid ""
+"Έχετε επιλέξει να παραλάβετε από ACS Points όμως ΔΕΝ έχετε επιλέξει ACS "
+"Smart Point από τον χάρτη! Παρακαλούμε Επιλέξτε ένα ACS SmartPoint πατώντας "
+"την αντίστοιχη επιλογή στην ενότητα \"Αποστολή\""
+msgstr ""
+"Έχετε επιλέξει να παραλάβετε από ACS Points όμως ΔΕΝ έχετε επιλέξει ACS "
+"Smart Point από τον χάρτη! Παρακαλούμε Επιλέξτε ένα ACS SmartPoint πατώντας "
+"την αντίστοιχη επιλογή στην ενότητα \"Αποστολή\""
+
+#: smartpoints-lockers-acs-plugin.php:249
+msgid "ΕΠΙΛΕΓΜΕΝΟ ACS SmartPoint"
+msgstr "ΕΠΙΛΕΓΜΕΝΟ ACS SmartPoint"
+
+#: smartpoints-lockers-acs-plugin.php:183
+msgid "Επιλέξτε Smart Point"
+msgstr "Επιλέξτε Smart Point"
+
+#. %1$s is the shipping method title, %2$d is the weight limit.
+#: smartpoints-lockers-acs-plugin.php:155
+#, php-format
+msgid ""
+"Λυπούμαστε αλλά η %1$s δεν υποστηρίζεται για παραγγελίες με ογκομετρικό "
+"βάρος μεγαλύτερο από %2$d kg."
+msgstr ""
+"Λυπούμαστε αλλά η %1$s δεν υποστηρίζεται για παραγγελίες με ογκομετρικό "
+"βάρος μεγαλύτερο από %2$d kg."
+
+#: index.php:9 index.php:10 smartpoints-lockers-acs-plugin.php:156
+msgid "Παραλαβή από ACS SmartPoint"
+msgstr "Παραλαβή από ACS SmartPoint"
